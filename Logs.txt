@@ -1,0 +1,85 @@
+2022/11/14 20:44:25 Node #5000 has the token
+2022/11/14 20:44:26 Node #5001 has the token
+2022/11/14 20:44:27 Node #5002 has the token
+2022/11/14 20:44:28 Node #5000 has the token
+2022/11/14 20:44:29 Node #5001 has the token
+2022/11/14 20:44:30 Node #5002 has the token
+2022/11/14 20:44:31 Node #5000 has the token
+2022/11/14 20:44:32 Node #5001 has the token
+2022/11/14 20:44:33 Node #5002 has the token
+2022/11/14 20:44:34 Node #5000 has the token
+2022/11/14 20:44:35 Node #5001 has the token
+2022/11/14 20:44:36 Node #5002 has the token
+2022/11/14 20:44:37 Node #5000 has the token
+2022/11/14 20:44:38 Node #5001 has the token
+2022/11/14 20:44:39 Node #5002 has the token
+2022/11/14 20:44:40 Node #5000 has the token
+2022/11/14 20:44:41 Node #5001 has the token
+2022/11/14 20:44:42 Node #5002 has the token and wishes to work on critical section
+2022/11/14 20:44:45 Node #5002 has finished their work on critical section and is sending token to node #5000
+2022/11/14 20:44:46 Node #5000 has the token
+2022/11/14 20:44:47 Node #5001 has the token
+2022/11/14 20:44:48 Node #5002 has the token
+2022/11/14 20:44:49 Node #5000 has the token
+2022/11/14 20:44:50 Node #5001 has the token
+2022/11/14 20:44:51 Node #5002 has the token
+2022/11/14 20:44:52 Node #5000 has the token
+2022/11/14 20:44:53 Node #5001 has the token
+2022/11/14 20:44:54 Node #5002 has the token
+2022/11/14 20:45:23 Node #5000 has the token
+2022/11/14 20:45:24 Node #5001 has the token
+2022/11/14 20:45:25 Node #5002 has the token
+2022/11/14 20:45:26 Node #5000 has the token
+2022/11/14 20:45:27 Node #5001 has the token
+2022/11/14 20:45:28 Node #5002 has the token
+2022/11/14 20:45:29 Node #5000 has the token
+2022/11/14 20:45:30 Node #5001 has the token
+2022/11/14 20:45:31 Node #5002 has the token and wishes to work on critical section
+2022/11/14 20:45:34 Node #5002 has finished their work on critical section and is sending token to node #5000
+2022/11/14 20:45:35 Node #5000 has the token
+2022/11/14 20:45:36 Node #5001 has the token
+2022/11/14 20:45:37 Node #5002 has the token
+2022/11/14 20:45:38 Node #5000 has the token and wishes to work on critical section
+2022/11/14 20:45:41 Node #5000 has finished their work on critical section and is sending token to node #5001
+2022/11/14 20:45:42 Node #5001 has the token
+2022/11/14 20:45:43 Node #5002 has the token and wishes to work on critical section
+2022/11/14 20:45:46 Node #5002 has finished their work on critical section and is sending token to node #5000
+2022/11/14 20:45:47 Node #5000 has the token
+2022/11/14 20:45:48 Node #5001 has the token
+2022/11/14 20:45:49 Node #5002 has the token
+2022/11/14 20:45:50 Node #5000 has the token
+2022/11/14 20:45:51 Node #5001 has the token
+2022/11/14 20:45:52 Node #5002 has the token
+2022/11/14 20:45:53 Node #5000 has the token
+2022/11/14 20:45:54 Node #5001 has the token
+2022/11/14 20:45:55 Node #5002 has the token
+2022/11/14 20:45:56 Node #5000 has the token and wishes to work on critical section
+2022/11/14 20:45:59 Node #5000 has finished their work on critical section and is sending token to node #5001
+2022/11/14 20:46:00 Node #5001 has the token
+2022/11/14 20:46:01 Node #5002 has the token
+2022/11/14 20:46:02 Node #5000 has the token
+2022/11/14 20:46:03 Node #5001 has the token and wishes to work on critical section
+2022/11/14 20:46:06 Node #5001 has finished their work on critical section and is sending token to node #5002
+2022/11/14 20:46:07 Node #5002 has the token
+2022/11/14 20:46:08 Node #5000 has the token
+2022/11/14 20:46:09 Node #5001 has the token
+2022/11/14 20:46:10 Node #5002 has the token
+2022/11/14 20:46:11 Node #5000 has the token
+2022/11/14 20:46:12 Node #5001 has the token
+2022/11/14 20:46:13 Node #5002 has the token and wishes to work on critical section
+2022/11/14 20:46:17 Node #5002 has finished their work on critical section and is sending token to node #5000
+2022/11/14 20:46:18 Node #5000 has the token and wishes to work on critical section
+2022/11/14 20:46:21 Node #5000 has finished their work on critical section and is sending token to node #5001
+2022/11/14 20:46:22 Node #5001 has the token and wishes to work on critical section
+2022/11/14 20:46:25 Node #5001 has finished their work on critical section and is sending token to node #5002
+2022/11/14 20:46:26 Node #5002 has the token
+2022/11/14 20:46:27 Node #5000 has the token
+2022/11/14 20:46:28 Node #5001 has the token
+2022/11/14 20:46:29 Node #5002 has the token and wishes to work on critical section
+2022/11/14 20:46:32 Node #5002 has finished their work on critical section and is sending token to node #5000
+2022/11/14 20:46:33 Node #5000 has the token
+2022/11/14 20:46:34 Node #5001 has the token
+2022/11/14 20:46:35 Node #5002 has the token and wishes to work on critical section
+2022/11/14 20:46:38 Node #5002 has finished their work on critical section and is sending token to node #5000
+2022/11/14 20:46:39 Node #5000 has the token
+2022/11/14 20:46:40 Node #5001 has the token
